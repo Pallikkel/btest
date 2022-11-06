@@ -1,6 +1,6 @@
 # NSTC MOVIE FINDER
 
-## Added Features
+## Added Features 
 
 <br/>
 <br/>
